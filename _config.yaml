@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: pengrui-rio
+title: Adaptive Robotic Controls Lab (ArcLab)
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -8,13 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@pengrui-rio.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: pengrui-rio
-  twitter: pengrui-rio
-  youtube: pengrui-rio
-
+  email: lupeng@hku.hk
+  google-scholar: ts7ItWgAAAAJ&hl=en
+  github: arclab-hku
+  twitter: video/BV1W3411R7D4
+  youtube: channel/UCUSh4UqeJ9XxUXJQuni6LJA/videos
+  
 ### jekyll settings
 
 # front matter defaults
