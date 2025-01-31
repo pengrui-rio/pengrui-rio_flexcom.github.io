@@ -14,7 +14,7 @@
 dddddddddddddd
 {%
   include button.html
-  link="2_publications"
+  link="1_origami"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -26,33 +26,10 @@ dddddddddddddd
 {%
   include feature.html
   image="images/flying_elephant.gif"
-  link="3_research"
+  link="1_origami"
   title="Our Research"
   text=text
 %}
 
-
-{% capture text %}
-
-dddddddddddddd
-{%
-  include button.html
-  link="2_publications"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/flying_elephant.gif"
-  link="3_research"
-  title="Our Research"
-  text=text
-%}
-
-
+ 
  
