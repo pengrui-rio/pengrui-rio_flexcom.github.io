@@ -1,13 +1,13 @@
 ---
 ---
-
+<!-- 
 # Flexcom Tech Limited's Website
 
 
 
-{% include section.html %}
+{% include section.html %} -->
 
-## Highlights
+## Product Category
 
 {% capture text %}
 
