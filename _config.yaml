@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: Adaptive Robotic Controls Lab (ArcLab)
+title: Flexcom Tech Limited
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/logo.png
+footer: images/logo.png
 proofer: false
 
 # site social media and other links
 links:
-  email: lupeng@hku.hk
-  google-scholar: ts7ItWgAAAAJ&hl=en
-  github: arclab-hku
-  twitter: video/BV1W3411R7D4
-  youtube: channel/UCUSh4UqeJ9XxUXJQuni6LJA/videos
+  email: pengrui-rio@connect.hku.hk
+  # google-scholar: ts7ItWgAAAAJ&hl=en
+  # github: arclab-hku
+  # twitter: video/BV1W3411R7D4
+  # youtube: channel/UCUSh4UqeJ9XxUXJQuni6LJA/videos
   
 ### jekyll settings
 
