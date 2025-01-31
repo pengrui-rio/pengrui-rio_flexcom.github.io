@@ -1,11 +1,6 @@
 ---
 ---
-<!-- 
-# Flexcom Tech Limited's Website
-
-
-
-{% include section.html %} -->
+ 
 
 ## Product Category
 
