@@ -34,7 +34,7 @@ Also, event-based, Lidar-based slam systems and deep learning belong to our rese
 
 {%
   include feature.html
-  image="images/research_cover.png"
+  image="images/flying_elephant.gif"
   link="3_research"
   title="Our Research"
   text=text
