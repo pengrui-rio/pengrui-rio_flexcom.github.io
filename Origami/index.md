@@ -13,5 +13,5 @@ nav:
 
 
 <video id="video" controls="controls" width="800" height="450" preload="none" poster="封面">
-      <source id="mp4" src="Origami/0_1-manual_manipulation.mp4" type="video/mp4">
+      <source id="mp4" src="./0_1-manual_manipulation.mp4" type="video/mp4">
 </video>
