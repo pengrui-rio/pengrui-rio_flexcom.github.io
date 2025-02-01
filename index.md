@@ -27,6 +27,6 @@ dddddddddddddd
 %}
 
  
-<video src="images/0_1-manual_manipulation.mp4" controls="controls" width="500" height="300"></video>
+<video src="images/0_1-manual_manipulation.mp4" controls="controls" width="800" height="450"></video>
 
  
