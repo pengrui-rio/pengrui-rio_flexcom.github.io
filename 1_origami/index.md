@@ -5,9 +5,8 @@ nav:
   tooltip: Origami
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Origami
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Origami Manipulator
 
-## 12.2024:
-Our first PhD student at HKU, Rui Peng, has successfully defended his PhD thesis!
+## Continuous Shape Variation and Shape Estimation:
 
-<video src="images/0_1-manual_manipulation.mp4" controls="controls" width="800" height="450"></video>
+<video src="images/0_1-manual_manipulation.mp4" controls="controls" width="500" height="300"></video>
