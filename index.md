@@ -6,11 +6,11 @@
 
 {% capture text %}
 
-dddddddddddddd
+
 {%
   include button.html
   link="Origami"
-  text="Origami Manipulator Demos"
+  text="Origami Manipulator"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -21,6 +21,7 @@ dddddddddddddd
 {%
   include feature.html
   image="images/origami.png"
+  width="50%"
   link="Origami"
   text=text
 %}
