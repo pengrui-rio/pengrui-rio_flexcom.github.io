@@ -9,7 +9,7 @@
 dddddddddddddd
 {%
   include button.html
-  link="1_origami"
+  link="Origami"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -21,7 +21,7 @@ dddddddddddddd
 {%
   include feature.html
   image="images/flying_elephant.gif"
-  link="1_origami"
+  link="Origami"
   title="Our Research"
   text=text
 %}
