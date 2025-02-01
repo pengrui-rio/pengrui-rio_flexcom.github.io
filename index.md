@@ -6,7 +6,6 @@
 
 {% capture text %}
 
-
 {%
   include button.html
   link="Origami"
@@ -21,9 +20,9 @@
 {%
   include feature.html
   image="images/origami.png"
-  width="50%"
   link="Origami"
   text=text
+  width="50%"
 %}
 
 
