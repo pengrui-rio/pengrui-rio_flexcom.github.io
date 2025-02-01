@@ -9,4 +9,9 @@ nav:
 
 ## Continuous Shape Variation and Shape Estimation:
 
-<video src="images/0_1-manual_manipulation.mp4" controls="controls" width="500" height="300"></video>
+<!-- <video src="images/0_1-manual_manipulation.mp4" controls="controls" width="500" height="300"></video> -->
+
+
+<video id="video" controls="controls" width="500" height="300" preload="none" poster="封面">
+      <source id="mp4" src="images/0_1-manual_manipulation.mp4" type="video/mp4">
+</video>
