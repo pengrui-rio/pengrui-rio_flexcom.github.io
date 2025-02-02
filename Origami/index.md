@@ -26,17 +26,21 @@ nav:
 
 #### Autonomous shape changes in three-dimensional space:
  
-<video id="video" controls="controls" width="500" height="300" preload="none" poster="封面">
-      <source id="mp4" src="./1-3-3D_singleSection_2.mp4" type="video/mp4">
-</video>
 
-<video id="video" controls="controls" width="500" height="300" preload="none" poster="封面">
-      <source id="mp4" src="./1-3-3D_singleSection_3.mp4" type="video/mp4">
-</video>
-
-<video id="video" controls="controls" width="500" height="300" preload="none" poster="封面">
-      <source id="mp4" src="./2-3-3D_multi-section.mp4" type="video/mp4">
-</video>
+<div style="display: flex; gap: 10px;">
+  <video width="200" controls>
+    <source id="mp4" src="./1-3-3D_singleSection_2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <video width="200" controls>
+    <source id="mp4" src="./1-3-3D_singleSection_3.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <video width="200" controls>
+    <source id="mp4" src="./2-3-3D_multi-section.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ####  Shape change with hanging heavy objects:
 
