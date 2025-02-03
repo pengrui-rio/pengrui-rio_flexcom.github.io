@@ -79,3 +79,33 @@ nav:
     <source id="mp4" src="./6-payload-2.mp4" type="video/mp4">
   </video>
 </div>
+
+
+####  Payload test:
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <video width="350" controls>
+    <source id="mp4" src="./6-payload-1.mp4" type="video/mp4">
+  </video>
+  <video width="350" controls>
+    <source id="mp4" src="./6-payload-2.mp4" type="video/mp4">
+  </video>
+</div>
+
+
+####  Teleoperation:
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <video width="350" controls>
+    <source id="mp4" src="./7-teleoperation.mp4" type="video/mp4">
+  </video>
+</div>
+
+
+####  Active grasping:
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <video width="350" controls>
+    <source id="mp4" src="./8-grasping-1.mp4" type="video/mp4">
+  </video>
+</div>
