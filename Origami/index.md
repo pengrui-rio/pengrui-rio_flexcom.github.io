@@ -43,7 +43,10 @@ nav:
 
 ####  Shape change with hanging heavy objects:
 
-<video id="video" controls="controls" width="500" height="300" preload="none" poster="封面">
-      <source id="mp4" src="./3-3-3D_multi-section_loading.mp4" type="video/mp4">
-</video>
-
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <video width="350" controls>
+    <source id="mp4" src="./3-3-3D_multi-section_loading.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+ 
