@@ -45,7 +45,7 @@ nav:
 </div>
  
 
-####  Durability test:
+##  Durability test:
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <video width="350" controls>
@@ -57,7 +57,7 @@ nav:
 </div>
 
 
-####  Motion speed test:
+##  Motion speed test:
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <video width="350" controls>
@@ -68,20 +68,8 @@ nav:
   </video>
 </div>
 
-
-####  Payload test:
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <video width="350" controls>
-    <source id="mp4" src="./6-payload-1.mp4" type="video/mp4">
-  </video>
-  <video width="350" controls>
-    <source id="mp4" src="./6-payload-2.mp4" type="video/mp4">
-  </video>
-</div>
-
-
-####  Payload test:
+ 
+##  Payload test:
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <video width="350" controls>
@@ -93,7 +81,7 @@ nav:
 </div>
 
 
-####  Teleoperation:
+##  Teleoperation:
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <video width="350" controls>
@@ -102,7 +90,7 @@ nav:
 </div>
 
 
-####  Active grasping:
+##  Active grasping:
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <video width="350" controls>
