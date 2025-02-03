@@ -9,33 +9,32 @@ nav:
 
 ## Continuous Shape Variation and Shape Estimation
 
-#### Manual bending of the robotic arm with state estimation rviz:
+#### Manual bending and shape changes of the robotic arm:
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <video width="350" controls>
+    <source id="mp4" src="./0_1-manual_manipulation.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <video width="350" controls>
+    <source id="mp4" src="./1_2-2D_shape_transition.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
  
-<video id="video" controls  width="500" height="300" preload="none" poster="封面">
-      <source id="mp4" src="./0_1-manual_manipulation.mp4" type="video/mp4">
-</video>
-
-
-
-#### Autonomous shape changes in a two-dimensional plane:
- 
-<video id="video" controls  width="500" height="300" preload="none" poster="封面">
-      <source id="mp4" src="./1_2-2D_shape_transition.mp4" type="video/mp4">
-</video>
-
-
 #### Autonomous shape changes in three-dimensional space:
  
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <video width="300" controls>
+  <video width="350" controls>
     <source id="mp4" src="./1-3-3D_singleSection_2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <video width="300" controls>
+  <video width="350" controls>
     <source id="mp4" src="./1-3-3D_singleSection_3.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <video width="300" controls>
+  <video width="350" controls>
     <source id="mp4" src="./2-3-3D_multi-section.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
